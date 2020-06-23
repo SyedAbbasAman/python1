@@ -1,0 +1,7 @@
+Aman= 40
+Syed= 36
+x=Aman
+Aman=Syed
+Syed=x
+print(Aman)
+print(Syed)
