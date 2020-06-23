@@ -1,0 +1,10 @@
+a=3 
+b=4
+c= a+b
+d= a-b
+e= a*b
+f=a/b
+g= a//b
+h= a%b
+i= a**b
+print("a+b=",c," \na-b=",d,"\na*b=",e,"\na/b=",f,"\na//b=",g,"\na%b=",h,"\na**b=",i)
