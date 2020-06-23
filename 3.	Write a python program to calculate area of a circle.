@@ -1,0 +1,4 @@
+r= 23
+Pi= 22/7
+AreaofCircle= Pi*r*r
+print("the area is =",AreaofCircle)
