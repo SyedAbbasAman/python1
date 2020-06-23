@@ -1,0 +1,4 @@
+length= 40
+breadth= 49
+areaofrectangle= length*breadth
+print("areaoftriangle",areaofrectangle)
