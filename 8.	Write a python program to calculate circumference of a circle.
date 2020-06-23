@@ -1,0 +1,4 @@
+diameter= 275
+pi= 22/7
+circumference= pi*diameter
+print("circumference of circle",circumference)
