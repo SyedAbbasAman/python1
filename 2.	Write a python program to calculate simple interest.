@@ -1,0 +1,5 @@
+p= 100000
+r=3
+t=12
+Simple_intrest= (p*t*r)/100
+print("the simple intrest is=",Simple_intrest)
